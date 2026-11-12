@@ -1,0 +1,8 @@
+{
+  "name": "example/php-site",
+  "description": "Small PHP site with one Composer dependency",
+  "require": {
+    "php": ">=8.1",
+    "nesbot/carbon": "^3.0"
+  }
+}
